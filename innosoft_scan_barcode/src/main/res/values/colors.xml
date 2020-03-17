@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gray_1">#E7E6E6</color>
+    <color name="border_def1">#56585A</color>
+    <color name="border_def1_transp">#5056585A</color>
+    <color name="border_def2_transp">#8056585A</color>
+    <color name="smooth_blue">#008299</color>
+    <color name="smooth_blue_opc1">#20008299</color>
+    <color name="smooth_blue_transp_0">#00008299</color>
+    <color name="black_brown1">#56585A</color>
+    <color name="white_1">#FFFFFF</color>
+</resources>
