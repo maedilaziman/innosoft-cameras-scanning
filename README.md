@@ -2,8 +2,8 @@
 innosoft-cameras-scanning aims to help produce an easily usable implementation of scan barcode, qr code and others.<br/>
 <br/>
 <h2>Usage</h2>
-You just call the class Gallery with request code for result,
-and the request code must be 105.
+<p>First you must copy the modul, you can cloning or download this library.</p>
+<p>Please open this&nbsp;<a href="https://github.com/maedilaziman/innosoft-cameras-scanning/blob/master/app/src/main/java/com/maedi/soft/ino/scan/barcode/MainActivity.java">example activity</a> for how to use this library.</p>
 <br/>
 <br/>
 That's it!
