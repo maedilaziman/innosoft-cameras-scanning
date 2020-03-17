@@ -4,8 +4,6 @@ innosoft-cameras-scanning aims to help produce an easily usable implementation o
 <h2>Usage</h2>
 <p>First you must copy the modul, you can cloning or download this library.</p>
 <p>Please open this&nbsp;<a href="https://github.com/maedilaziman/innosoft-cameras-scanning/blob/master/app/src/main/java/com/maedi/soft/ino/scan/barcode/MainActivity.java">example activity</a> for how to use this library.</p>
-<br/>
-<br/>
 That's it!
 <br/>
 <h2>License</h2>
